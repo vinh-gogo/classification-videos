@@ -1,4 +1,4 @@
-# Các mô hình phân loại video:
+# Các mô hình phân loại video (Tensorflow):
 1. Mô hình DensetNet kết hợp với GRU
 2. Mô hình DensetNet kết hợp với LSTM
 3. Mô hình DensetNet kết hợp với ConvLSTM2D
