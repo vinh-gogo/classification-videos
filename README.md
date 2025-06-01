@@ -4,7 +4,7 @@
 - Model pre-trained DensetNet backbone + LSTM [colab](https://colab.research.google.com/drive/1Kz1t4e-xX2dJ2ygvLxKABOvbNVqrdsR3?usp=sharing)
 - Model pre-trained DensetNet backbone + ConvLSTM2D [colab](https://colab.research.google.com/drive/1TcQt_RPoz9MYOv0yR11MlbIwKnURoGOP?usp=sharing)
 
-# Kết quả confusion matrix:
+# Kết quả confusion matrix: Các đánh giá trên 330 videos test
 - Model pre-trained DensetNet backbone + GRU
 
 ![image](https://github.com/user-attachments/assets/20a20c48-ad98-435e-9600-42a6b83061db)
